@@ -1,0 +1,43 @@
+/* general -----------------------------*/
+body{
+	background-image: url(../img/bg-7.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+}
+/* fin general -------------------------*/
+
+/* inicio de form ----------------------*/
+.text-nuevo{
+	color: #ff8800;
+	font-family: bombing;
+}
+.form-nuevo{
+	background-color: rgba(0, 0, 0, 0.23);
+}
+.input-nuevo{
+	color: #ffffff;
+	background-color: rgba(0, 0, 0, 0.23);
+	border: none;
+}
+.input-nuevo:focus{
+	color: #fff;
+	background-color: rgba(0, 0, 0, 0.23);
+}
+.input-nuevo::placeholder{
+	color: rgba(255, 255, 255, 0.5803921568627451);
+}
+@media ( min-width : 320px ) {     
+	.m-cs{margin-top: 1rem;} /* 16px 1rem=16px */
+	.m-v{margin: 0;} /* px 1rem=16px */ 
+}
+@media ( min-width : 361px ) {     
+	.m-cs{margin-top: 0;} 
+	.m-v{margin: 0 0;}
+}
+@media ( min-width : 398px ) {     
+	.m-cs{margin-top: 0;} 
+	.m-v{margin: 0 0;}
+}
+/* fin de form -------------------------*/
+

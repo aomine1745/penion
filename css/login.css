@@ -1,0 +1,33 @@
+/* inicio de general -----------------------------*/
+body{
+	background-image: url(../img/bg-13.jpg);
+	background-position: center;
+	background-size: cover;
+}
+/* fin de general --------------------------------*/
+
+/* inicio de login -------------------------------*/
+.img-login{
+	width: 7rem; /* 112px 1rem=16px */
+	height: 7rem; /* 112px 1rem=16px */
+}
+.login{
+	height: 100vh;
+}
+.form-login{
+	background-color: rgba(0, 0, 0, 0.23);
+}
+.input-login{
+	background-color: rgba(0, 0, 0, 0.23);
+	border: none;
+}
+.input-login:focus{
+	background-color: rgba(0, 0, 0, 0.23);
+	color: #ffffff;
+	border: none;
+}
+.input-login::placeholder{
+	color: rgba(255, 255, 255, 0.5803921568627451);
+}
+
+/* fin de login ----------------------------------*/

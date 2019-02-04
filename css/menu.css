@@ -1,0 +1,48 @@
+/* inicio de slider ---------------------------------*/
+.slider-m-1{
+	background-image: url(../img/Picante-De-Marisco.jpg);
+	background-color: rgba(0, 0, 0, 0.23);
+	background-blend-mode: soft-light;
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	transform: translateZ(-1px) scale(1.2);
+	width: 91vw;
+}
+.slider-m-2{
+	background-image: url(../img/Nuggets-De-Pollo.jpg);
+	background-color: rgba(0, 0, 0, 0.23);
+	background-blend-mode: soft-light;
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	transform: translateZ(-1px) scale(1.2);
+	width: 91vw;
+}
+.slider-m-3{
+	background-image: url(../img/VenadoALaParrilla.jpg);
+	background-color: rgba(0, 0, 0, 0.23);
+	background-blend-mode: soft-light;
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	transform: translateZ(-1px) scale(1.2);
+	width: 91vw;
+}
+.previus-next{
+	position: absolute;
+	z-index: 2;
+}
+/* fin de slider ------------------------------------*/
+
+/* inicio de menu ----------*/
+.img-menu{
+	width: 3.125rem; /* 50px 1rem=16px */
+}
+/* fin de menu -------------*/

@@ -1,0 +1,86 @@
+/* inicio de slider ---------------------------------*/
+.slider-c-1{
+	background-image: url(../img/CorvinaFrita.jpg);
+	background-color: rgba(0, 0, 0, 0.23);
+	background-blend-mode: soft-light;
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	transform: translateZ(-1px) scale(1.2);
+	width: 91vw;
+}
+.slider-c-2{
+	background-image: url(../img/ChicharronAloPenion.jpg);
+	background-color: rgba(0, 0, 0, 0.23);
+	background-blend-mode: soft-light;
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	transform: translateZ(-1px) scale(1.2);
+	width: 91vw;
+}
+.slider-c-3{
+	background-image: url(../img/Chancho-A-La-Caja-China.jpg);
+	background-color: rgba(0, 0, 0, 0.23);
+	background-blend-mode: soft-light;
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	transform: translateZ(-1px) scale(1.2);
+	width: 91vw;
+}
+.previus-next{
+	position: absolute;
+	z-index: 2;
+}
+/* fin de slider ------------------------------------*/
+
+/* inicio de mapa y form ---------------------------------*/
+.border-azul{
+	border: 0.3125rem solid #007bff; /* 5px 1rem=16px */
+	border-radius: 0.625rem; /* 10px 1rem=16px */
+}
+.map{
+	height: 32.5rem; /* 520px 1rem=16px */
+	transition: all 0.5s ease;
+}
+.form-label{
+	font-family: comic sans ms;
+}
+.form{
+	border: 0.3125rem solid #007bff; /* 5px 1rem=16px */
+	border-radius: 0.625rem; /* 10px 1rem=16px */
+	transition: all 0.5s ease;
+	color: rgba(255, 255, 255, 0.9019607843137255);
+}
+.input{
+	height: 2.1875rem; /* 35px 1rem=16px */
+	font: 0.875rem normal normal uppercase helvetica, arial, serif; /* 14px 1rem=16px */
+	transition: all 0.5s ease;
+	border: none;
+	color: #ffffff;
+	background-color: rgba(0, 0, 0, 0.23);
+}
+.input:focus, .textarea:focus{
+	background-color: rgba(0, 0, 0, 0.23);
+	color: #ffffff;
+	border: none;
+}
+.textarea{
+	height: 6.875rem; /* 110px 1rem=16px */
+	font: 0.875rem normal normal uppercase helvetica, arial, serif; /* 14px 1rem=16px */
+	transition: all 0.5s ease;
+	background-color: rgba(0, 0, 0, 0.23);
+	border: none;
+	color: #ffffff;
+}
+.input::placeholder,.textarea::placeholder{
+	color: rgba(255, 255, 255, 0.5803921568627451);
+}
+/* fin de mapa y form ------------------------------------*/
