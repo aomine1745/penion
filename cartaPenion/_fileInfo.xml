@@ -1,0 +1,452 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FtpUploadInfo LocalBasePath="C:\Users\xomar.DESKTOP-62NUGCL\AppData\Roaming\FlippingBook\FlippingBook Publisher\FtpTemp\Pe" RemoteBasePath="/carta-penion/">
+  <Entry Name="">
+    <Entry Type="File" Name=".htaccess" CrcValue="493629025" Length="88" ModificationDate="07/28/2018 08:00:45" />
+    <Entry Type="File" Name="index.html" CrcValue="2176912772" Length="3999" ModificationDate="07/28/2018 08:00:46" />
+    <Entry Type="File" Name="web.config" CrcValue="411179479" Length="242" ModificationDate="07/28/2018 08:00:45" />
+    <Entry Type="Dir" Name="1">
+      <Entry Type="File" Name="index.html" CrcValue="1083242301" Length="822" ModificationDate="07/28/2018 08:00:46" />
+    </Entry>
+    <Entry Type="Dir" Name="10">
+      <Entry Type="File" Name="index.html" CrcValue="129832413" Length="4004" ModificationDate="07/28/2018 08:00:46" />
+    </Entry>
+    <Entry Type="Dir" Name="2">
+      <Entry Type="File" Name="index.html" CrcValue="1913110065" Length="4086" ModificationDate="07/28/2018 08:00:46" />
+    </Entry>
+    <Entry Type="Dir" Name="3">
+      <Entry Type="File" Name="index.html" CrcValue="3072863299" Length="4155" ModificationDate="07/28/2018 08:00:46" />
+    </Entry>
+    <Entry Type="Dir" Name="4">
+      <Entry Type="File" Name="index.html" CrcValue="276347628" Length="4155" ModificationDate="07/28/2018 08:00:46" />
+    </Entry>
+    <Entry Type="Dir" Name="5">
+      <Entry Type="File" Name="index.html" CrcValue="3273816415" Length="4155" ModificationDate="07/28/2018 08:00:46" />
+    </Entry>
+    <Entry Type="Dir" Name="6">
+      <Entry Type="File" Name="index.html" CrcValue="595403422" Length="4155" ModificationDate="07/28/2018 08:00:46" />
+    </Entry>
+    <Entry Type="Dir" Name="7">
+      <Entry Type="File" Name="index.html" CrcValue="3347992228" Length="4155" ModificationDate="07/28/2018 08:00:46" />
+    </Entry>
+    <Entry Type="Dir" Name="8">
+      <Entry Type="File" Name="index.html" CrcValue="1937375973" Length="4155" ModificationDate="07/28/2018 08:00:46" />
+    </Entry>
+    <Entry Type="Dir" Name="9">
+      <Entry Type="File" Name="index.html" CrcValue="2931592133" Length="4086" ModificationDate="07/28/2018 08:00:46" />
+    </Entry>
+    <Entry Type="Dir" Name="files">
+      <Entry Type="Dir" Name="assets">
+        <Entry Type="File" Name="cover300.jpg" CrcValue="1030339431" Length="31342" ModificationDate="07/28/2018 06:38:01" />
+        <Entry Type="Dir" Name="common">
+          <Entry Type="File" Name="pager.js" CrcValue="1530371620" Length="1302" ModificationDate="07/28/2018 08:00:45" />
+          <Entry Type="File" Name="publication-icon.ico" CrcValue="2956262988" Length="104619" ModificationDate="06/21/2018 16:52:26" />
+          <Entry Type="Dir" Name="page-html5-substrates">
+            <Entry Type="File" Name="page0001_1.png" CrcValue="1876635498" Length="265920" ModificationDate="07/28/2018 06:37:49" />
+            <Entry Type="File" Name="page0001_2.png" CrcValue="531783003" Length="501242" ModificationDate="07/28/2018 06:37:49" />
+            <Entry Type="File" Name="page0001_3.png" CrcValue="1097974659" Length="868875" ModificationDate="07/28/2018 06:37:49" />
+            <Entry Type="File" Name="page0001_4.png" CrcValue="3737806035" Length="1676205" ModificationDate="07/28/2018 06:37:49" />
+            <Entry Type="File" Name="page0001_5.png" CrcValue="2804186186" Length="2536358" ModificationDate="07/28/2018 06:37:49" />
+            <Entry Type="File" Name="page0002_1.png" CrcValue="2176079417" Length="441365" ModificationDate="07/28/2018 06:37:49" />
+            <Entry Type="File" Name="page0002_2.png" CrcValue="1671115048" Length="954213" ModificationDate="07/28/2018 06:37:49" />
+            <Entry Type="File" Name="page0002_3.png" CrcValue="1606294557" Length="1666499" ModificationDate="07/28/2018 06:37:49" />
+            <Entry Type="File" Name="page0002_4.png" CrcValue="268994828" Length="3268133" ModificationDate="07/28/2018 06:37:49" />
+            <Entry Type="File" Name="page0002_5.png" CrcValue="2389600933" Length="4953020" ModificationDate="07/28/2018 06:37:49" />
+            <Entry Type="File" Name="page0003_1.png" CrcValue="1454956884" Length="512972" ModificationDate="07/28/2018 06:37:49" />
+            <Entry Type="File" Name="page0003_2.png" CrcValue="1332804693" Length="979177" ModificationDate="07/28/2018 06:37:49" />
+            <Entry Type="File" Name="page0003_3.png" CrcValue="33943478" Length="1697055" ModificationDate="07/28/2018 06:37:49" />
+            <Entry Type="File" Name="page0003_4.png" CrcValue="3088779490" Length="3329909" ModificationDate="07/28/2018 06:37:49" />
+            <Entry Type="File" Name="page0003_5.png" CrcValue="314636342" Length="5048035" ModificationDate="07/28/2018 06:37:49" />
+            <Entry Type="File" Name="page0004_1.png" CrcValue="4038151442" Length="431807" ModificationDate="07/28/2018 06:37:50" />
+            <Entry Type="File" Name="page0004_2.png" CrcValue="2034542430" Length="943228" ModificationDate="07/28/2018 06:37:50" />
+            <Entry Type="File" Name="page0004_3.png" CrcValue="2607035411" Length="1668026" ModificationDate="07/28/2018 06:37:50" />
+            <Entry Type="File" Name="page0004_4.png" CrcValue="3686463207" Length="3331313" ModificationDate="07/28/2018 06:37:50" />
+            <Entry Type="File" Name="page0004_5.png" CrcValue="930820882" Length="5124733" ModificationDate="07/28/2018 06:37:51" />
+            <Entry Type="File" Name="page0005_1.png" CrcValue="3901013897" Length="450363" ModificationDate="07/28/2018 06:37:51" />
+            <Entry Type="File" Name="page0005_2.png" CrcValue="1529898922" Length="980421" ModificationDate="07/28/2018 06:37:51" />
+            <Entry Type="File" Name="page0005_3.png" CrcValue="3940867284" Length="1724842" ModificationDate="07/28/2018 06:37:51" />
+            <Entry Type="File" Name="page0005_4.png" CrcValue="713974602" Length="3429404" ModificationDate="07/28/2018 06:37:51" />
+            <Entry Type="File" Name="page0005_5.png" CrcValue="302139367" Length="5250836" ModificationDate="07/28/2018 06:37:52" />
+            <Entry Type="File" Name="page0006_1.png" CrcValue="757567138" Length="455612" ModificationDate="07/28/2018 06:37:52" />
+            <Entry Type="File" Name="page0006_2.png" CrcValue="2065828621" Length="974576" ModificationDate="07/28/2018 06:37:52" />
+            <Entry Type="File" Name="page0006_3.png" CrcValue="281044418" Length="1689892" ModificationDate="07/28/2018 06:37:52" />
+            <Entry Type="File" Name="page0006_4.png" CrcValue="1102525824" Length="3315172" ModificationDate="07/28/2018 06:37:52" />
+            <Entry Type="File" Name="page0006_5.png" CrcValue="4291772365" Length="5060454" ModificationDate="07/28/2018 06:37:52" />
+            <Entry Type="File" Name="page0007_1.png" CrcValue="69680970" Length="440562" ModificationDate="07/28/2018 06:37:53" />
+            <Entry Type="File" Name="page0007_2.png" CrcValue="2168292799" Length="951319" ModificationDate="07/28/2018 06:37:53" />
+            <Entry Type="File" Name="page0007_3.png" CrcValue="906806063" Length="1665864" ModificationDate="07/28/2018 06:37:53" />
+            <Entry Type="File" Name="page0007_4.png" CrcValue="2206110915" Length="3309623" ModificationDate="07/28/2018 06:37:53" />
+            <Entry Type="File" Name="page0007_5.png" CrcValue="3991687338" Length="5067487" ModificationDate="07/28/2018 06:37:53" />
+            <Entry Type="File" Name="page0008_1.png" CrcValue="1186661338" Length="456812" ModificationDate="07/28/2018 06:37:53" />
+            <Entry Type="File" Name="page0008_2.png" CrcValue="3189803615" Length="990750" ModificationDate="07/28/2018 06:37:53" />
+            <Entry Type="File" Name="page0008_3.png" CrcValue="1180732872" Length="1732259" ModificationDate="07/28/2018 06:37:53" />
+            <Entry Type="File" Name="page0008_4.png" CrcValue="3530635533" Length="3404538" ModificationDate="07/28/2018 06:37:53" />
+            <Entry Type="File" Name="page0008_5.png" CrcValue="4111838224" Length="5191037" ModificationDate="07/28/2018 06:37:54" />
+            <Entry Type="File" Name="page0009_1.png" CrcValue="1788029944" Length="385376" ModificationDate="07/28/2018 06:37:54" />
+            <Entry Type="File" Name="page0009_2.png" CrcValue="2944442793" Length="840201" ModificationDate="07/28/2018 06:37:55" />
+            <Entry Type="File" Name="page0009_3.png" CrcValue="2724156414" Length="1475137" ModificationDate="07/28/2018 06:37:55" />
+            <Entry Type="File" Name="page0009_4.png" CrcValue="3339183653" Length="2900218" ModificationDate="07/28/2018 06:37:55" />
+            <Entry Type="File" Name="page0009_5.png" CrcValue="533383192" Length="4390714" ModificationDate="07/28/2018 06:37:55" />
+            <Entry Type="File" Name="page0010_1.png" CrcValue="2614307837" Length="403932" ModificationDate="07/28/2018 06:37:55" />
+            <Entry Type="File" Name="page0010_2.png" CrcValue="986373112" Length="888440" ModificationDate="07/28/2018 06:37:55" />
+            <Entry Type="File" Name="page0010_3.png" CrcValue="2200077616" Length="1568735" ModificationDate="07/28/2018 06:37:56" />
+            <Entry Type="File" Name="page0010_4.png" CrcValue="3026997739" Length="3088074" ModificationDate="07/28/2018 06:37:56" />
+            <Entry Type="File" Name="page0010_5.png" CrcValue="1322410075" Length="4703972" ModificationDate="07/28/2018 06:37:56" />
+          </Entry>
+        </Entry>
+        <Entry Type="Dir" Name="flash">
+          <Entry Type="File" Name="page.html" CrcValue="1518703770" Length="4897" ModificationDate="07/28/2018 08:00:45" />
+          <Entry Type="File" Name="spread.html" CrcValue="3777479723" Length="1062" ModificationDate="07/28/2018 08:00:45" />
+          <Entry Type="Dir" Name="pages">
+            <Entry Type="File" Name="page0001_s.png" CrcValue="1501977328" Length="40742" ModificationDate="07/28/2018 06:37:42" />
+            <Entry Type="File" Name="page0002_s.png" CrcValue="2649323811" Length="61653" ModificationDate="07/28/2018 06:37:42" />
+            <Entry Type="File" Name="page0003_s.png" CrcValue="2335301062" Length="62903" ModificationDate="07/28/2018 06:37:42" />
+            <Entry Type="File" Name="page0004_s.png" CrcValue="2827890816" Length="57632" ModificationDate="07/28/2018 06:37:42" />
+            <Entry Type="File" Name="page0005_s.png" CrcValue="956821447" Length="61435" ModificationDate="07/28/2018 06:37:42" />
+            <Entry Type="File" Name="page0006_s.png" CrcValue="4048749846" Length="64164" ModificationDate="07/28/2018 06:37:42" />
+            <Entry Type="File" Name="page0007_s.png" CrcValue="3410359787" Length="59595" ModificationDate="07/28/2018 06:37:42" />
+            <Entry Type="File" Name="page0008_s.png" CrcValue="3653653233" Length="56436" ModificationDate="07/28/2018 06:37:42" />
+            <Entry Type="File" Name="page0009_s.png" CrcValue="2754814486" Length="52305" ModificationDate="07/28/2018 06:37:42" />
+            <Entry Type="File" Name="page0010_s.png" CrcValue="1644234540" Length="54377" ModificationDate="07/28/2018 06:37:42" />
+            <Entry Type="File" Name="pagestub.png" CrcValue="146266170" Length="922" ModificationDate="07/28/2018 06:37:42" />
+          </Entry>
+        </Entry>
+        <Entry Type="Dir" Name="html">
+          <Entry Type="File" Name="workspace.js" CrcValue="4151846431" Length="1259" ModificationDate="07/28/2018 08:00:45" />
+          <Entry Type="Dir" Name="locale">
+            <Entry Type="File" Name="ar.js" CrcValue="2329797643" Length="14743" ModificationDate="07/28/2018 06:38:01" />
+            <Entry Type="File" Name="de.js" CrcValue="2301520762" Length="11908" ModificationDate="07/28/2018 06:38:01" />
+            <Entry Type="File" Name="en.js" CrcValue="2289728286" Length="10830" ModificationDate="07/28/2018 06:38:01" />
+            <Entry Type="File" Name="es.js" CrcValue="4265639928" Length="12061" ModificationDate="07/28/2018 06:38:01" />
+            <Entry Type="File" Name="fi.js" CrcValue="3798501380" Length="11648" ModificationDate="07/28/2018 06:38:01" />
+            <Entry Type="File" Name="fr.js" CrcValue="491122161" Length="12605" ModificationDate="07/28/2018 06:38:01" />
+            <Entry Type="File" Name="he.js" CrcValue="4095914890" Length="13359" ModificationDate="07/28/2018 06:38:01" />
+            <Entry Type="File" Name="it.js" CrcValue="346501746" Length="11921" ModificationDate="07/28/2018 06:38:01" />
+            <Entry Type="File" Name="ja.js" CrcValue="2265493329" Length="13661" ModificationDate="07/28/2018 06:38:01" />
+            <Entry Type="File" Name="nl.js" CrcValue="1831247164" Length="11745" ModificationDate="07/28/2018 06:38:01" />
+            <Entry Type="File" Name="no.js" CrcValue="3119468365" Length="11017" ModificationDate="07/28/2018 06:38:02" />
+            <Entry Type="File" Name="pl.js" CrcValue="4130595044" Length="12131" ModificationDate="07/28/2018 06:38:02" />
+            <Entry Type="File" Name="pt.js" CrcValue="2150325871" Length="12154" ModificationDate="07/28/2018 06:38:02" />
+            <Entry Type="File" Name="ru.js" CrcValue="1664178705" Length="16840" ModificationDate="07/28/2018 06:38:02" />
+            <Entry Type="File" Name="sv.js" CrcValue="2288510337" Length="11263" ModificationDate="07/28/2018 06:38:02" />
+            <Entry Type="File" Name="tr.js" CrcValue="1996873527" Length="11457" ModificationDate="07/28/2018 06:38:02" />
+            <Entry Type="File" Name="zh.js" CrcValue="1717579289" Length="10115" ModificationDate="07/28/2018 06:38:02" />
+          </Entry>
+          <Entry Type="Dir" Name="skin">
+            <Entry Type="File" Name="config.js" CrcValue="3260191459" Length="1457" ModificationDate="07/28/2018 07:40:04" />
+            <Entry Type="File" Name="templates.js" CrcValue="90042167" Length="51915" ModificationDate="06/07/2018 10:36:38" />
+            <Entry Type="File" Name="thumb.jpg" CrcValue="454846117" Length="5044" ModificationDate="06/07/2018 10:36:38" />
+            <Entry Type="Dir" Name="css">
+              <Entry Type="File" Name="build.css" CrcValue="1262339296" Length="10259" ModificationDate="06/07/2018 10:36:38" />
+              <Entry Type="File" Name="build.rtl.css" CrcValue="3409328533" Length="10264" ModificationDate="06/07/2018 10:36:38" />
+            </Entry>
+            <Entry Type="Dir" Name="images">
+              <Entry Type="File" Name="darkwood.jpg" CrcValue="1717993648" Length="190711" ModificationDate="07/28/2018 07:40:04" />
+              <Entry Type="File" Name="fbThumb.png" CrcValue="3145948704" Length="1391782" ModificationDate="07/28/2018 07:40:05" />
+              <Entry Type="File" Name="logo-3.png" CrcValue="4155317368" Length="46868" ModificationDate="07/28/2018 07:40:04" />
+            </Entry>
+          </Entry>
+        </Entry>
+      </Entry>
+      <Entry Type="Dir" Name="basic">
+        <Entry Type="File" Name="init.js" CrcValue="2036135328" Length="191660" ModificationDate="07/28/2018 06:37:36" />
+        <Entry Type="Dir" Name="css">
+          <Entry Type="File" Name="close.png" CrcValue="2460606412" Length="1082" ModificationDate="07/28/2018 06:37:36" />
+          <Entry Type="File" Name="close_button.png" CrcValue="2447750610" Length="41073" ModificationDate="07/28/2018 06:37:36" />
+          <Entry Type="File" Name="email_32.png" CrcValue="3470182910" Length="1328" ModificationDate="07/28/2018 06:37:36" />
+          <Entry Type="File" Name="facebook_32.png" CrcValue="2755780019" Length="1187" ModificationDate="07/28/2018 06:37:36" />
+          <Entry Type="File" Name="google_32.png" CrcValue="2118523553" Length="1585" ModificationDate="07/28/2018 06:37:36" />
+          <Entry Type="File" Name="info.png" CrcValue="3608945358" Length="483" ModificationDate="07/28/2018 06:37:36" />
+          <Entry Type="File" Name="linkedin_32.png" CrcValue="3587636767" Length="1248" ModificationDate="07/28/2018 06:37:36" />
+          <Entry Type="File" Name="mobile-menu.png" CrcValue="2128240345" Length="1090" ModificationDate="07/28/2018 06:37:36" />
+          <Entry Type="File" Name="mobile.css" CrcValue="2668855535" Length="2492" ModificationDate="07/28/2018 06:37:36" />
+          <Entry Type="File" Name="next-mob.png" CrcValue="2410981798" Length="1032" ModificationDate="07/28/2018 06:37:36" />
+          <Entry Type="File" Name="next.png" CrcValue="296507195" Length="362" ModificationDate="07/28/2018 06:37:36" />
+          <Entry Type="File" Name="preloader.gif" CrcValue="839886394" Length="20432" ModificationDate="07/28/2018 06:37:36" />
+          <Entry Type="File" Name="prev-mob.png" CrcValue="2238645068" Length="1019" ModificationDate="07/28/2018 06:37:36" />
+          <Entry Type="File" Name="previous.png" CrcValue="3966403631" Length="384" ModificationDate="07/28/2018 06:37:36" />
+          <Entry Type="File" Name="save-mobile.png" CrcValue="218164736" Length="350" ModificationDate="07/28/2018 06:37:36" />
+          <Entry Type="File" Name="save.png" CrcValue="2289598077" Length="385" ModificationDate="07/28/2018 06:37:36" />
+          <Entry Type="File" Name="style.css" CrcValue="3145399046" Length="6843" ModificationDate="07/28/2018 06:37:36" />
+          <Entry Type="File" Name="toc-mobile.png" CrcValue="988068503" Length="288" ModificationDate="07/28/2018 06:37:36" />
+          <Entry Type="File" Name="toc.css" CrcValue="3596327240" Length="754" ModificationDate="07/28/2018 06:37:36" />
+          <Entry Type="File" Name="toc.png" CrcValue="526258568" Length="282" ModificationDate="07/28/2018 06:37:36" />
+          <Entry Type="File" Name="tumblr_32.png" CrcValue="3567944930" Length="1251" ModificationDate="07/28/2018 06:37:37" />
+          <Entry Type="File" Name="twitter_32.png" CrcValue="2819689458" Length="1432" ModificationDate="07/28/2018 06:37:37" />
+          <Entry Type="File" Name="videoIcon.png" CrcValue="2210887153" Length="4823" ModificationDate="07/28/2018 06:37:37" />
+          <Entry Type="File" Name="vk_32.png" CrcValue="909246059" Length="1461" ModificationDate="07/28/2018 06:37:37" />
+          <Entry Type="File" Name="zoomIn.png" CrcValue="1465892398" Length="667" ModificationDate="07/28/2018 06:37:37" />
+          <Entry Type="File" Name="zoomOut.png" CrcValue="33765241" Length="659" ModificationDate="07/28/2018 06:37:37" />
+        </Entry>
+        <Entry Type="Dir" Name="html">
+          <Entry Type="File" Name="page.html" CrcValue="3061868310" Length="18160" ModificationDate="07/28/2018 06:37:37" />
+        </Entry>
+        <Entry Type="Dir" Name="js">
+          <Entry Type="File" Name="localizator.js" CrcValue="3153041152" Length="2617" ModificationDate="07/28/2018 06:37:37" />
+          <Entry Type="Dir" Name="locales">
+            <Entry Type="Dir" Name="ar">
+              <Entry Type="File" Name="textlang.js" CrcValue="3386476762" Length="4452" ModificationDate="07/28/2018 06:37:37" />
+            </Entry>
+            <Entry Type="Dir" Name="de">
+              <Entry Type="File" Name="textlang.js" CrcValue="2238855664" Length="3523" ModificationDate="07/28/2018 06:37:37" />
+            </Entry>
+            <Entry Type="Dir" Name="en">
+              <Entry Type="File" Name="textlang.js" CrcValue="3029536802" Length="3305" ModificationDate="07/28/2018 06:37:37" />
+            </Entry>
+            <Entry Type="Dir" Name="es">
+              <Entry Type="File" Name="textlang.js" CrcValue="1299195522" Length="3621" ModificationDate="07/28/2018 06:37:37" />
+            </Entry>
+            <Entry Type="Dir" Name="fi">
+              <Entry Type="File" Name="textlang.js" CrcValue="2073065257" Length="3420" ModificationDate="07/28/2018 06:37:37" />
+            </Entry>
+            <Entry Type="Dir" Name="fr">
+              <Entry Type="File" Name="textlang.js" CrcValue="4272967369" Length="3704" ModificationDate="07/28/2018 06:37:37" />
+            </Entry>
+            <Entry Type="Dir" Name="he">
+              <Entry Type="File" Name="textlang.js" CrcValue="1900897178" Length="4046" ModificationDate="07/28/2018 06:37:37" />
+            </Entry>
+            <Entry Type="Dir" Name="it">
+              <Entry Type="File" Name="textlang.js" CrcValue="2553333529" Length="3589" ModificationDate="07/28/2018 06:37:37" />
+            </Entry>
+            <Entry Type="Dir" Name="ja">
+              <Entry Type="File" Name="textlang.js" CrcValue="2948144117" Length="4049" ModificationDate="07/28/2018 06:37:37" />
+            </Entry>
+            <Entry Type="Dir" Name="ko">
+              <Entry Type="File" Name="textlang.js" CrcValue="3029536802" Length="3305" ModificationDate="07/28/2018 06:37:37" />
+            </Entry>
+            <Entry Type="Dir" Name="nl">
+              <Entry Type="File" Name="textlang.js" CrcValue="3592839466" Length="3507" ModificationDate="07/28/2018 06:37:37" />
+            </Entry>
+            <Entry Type="Dir" Name="no">
+              <Entry Type="File" Name="textlang.js" CrcValue="1236322198" Length="3396" ModificationDate="07/28/2018 06:37:37" />
+            </Entry>
+            <Entry Type="Dir" Name="pl">
+              <Entry Type="File" Name="textlang.js" CrcValue="2388509343" Length="3612" ModificationDate="07/28/2018 06:37:37" />
+            </Entry>
+            <Entry Type="Dir" Name="pt">
+              <Entry Type="File" Name="textlang.js" CrcValue="4131725033" Length="3599" ModificationDate="07/28/2018 06:37:37" />
+            </Entry>
+            <Entry Type="Dir" Name="ru">
+              <Entry Type="File" Name="textlang.js" CrcValue="3055584369" Length="5062" ModificationDate="07/28/2018 06:37:37" />
+            </Entry>
+            <Entry Type="Dir" Name="sv">
+              <Entry Type="File" Name="textlang.js" CrcValue="3075056977" Length="3383" ModificationDate="07/28/2018 06:37:37" />
+            </Entry>
+            <Entry Type="Dir" Name="tr">
+              <Entry Type="File" Name="textlang.js" CrcValue="2295994533" Length="3409" ModificationDate="07/28/2018 06:37:38" />
+            </Entry>
+            <Entry Type="Dir" Name="zh">
+              <Entry Type="File" Name="textlang.js" CrcValue="248596374" Length="3039" ModificationDate="07/28/2018 06:37:38" />
+            </Entry>
+          </Entry>
+        </Entry>
+      </Entry>
+      <Entry Type="Dir" Name="html">
+        <Entry Type="Dir" Name="blank">
+          <Entry Type="File" Name="blank.js" CrcValue="110361492" Length="5313" ModificationDate="07/28/2018 06:37:45" />
+        </Entry>
+        <Entry Type="Dir" Name="locales">
+          <Entry Type="File" Name="ar.js" CrcValue="3672471676" Length="14742" ModificationDate="07/28/2018 06:37:45" />
+          <Entry Type="File" Name="config.js" CrcValue="1293855418" Length="619" ModificationDate="07/28/2018 06:37:45" />
+          <Entry Type="File" Name="de.js" CrcValue="1204469691" Length="11908" ModificationDate="07/28/2018 06:37:45" />
+          <Entry Type="File" Name="en.js" CrcValue="2289728286" Length="10830" ModificationDate="07/28/2018 06:37:45" />
+          <Entry Type="File" Name="es.js" CrcValue="3785370050" Length="12061" ModificationDate="07/28/2018 06:37:45" />
+          <Entry Type="File" Name="fi.js" CrcValue="2144467142" Length="11648" ModificationDate="07/28/2018 06:37:45" />
+          <Entry Type="File" Name="fr.js" CrcValue="2436031647" Length="12605" ModificationDate="07/28/2018 06:37:45" />
+          <Entry Type="File" Name="he.js" CrcValue="1922098996" Length="13358" ModificationDate="07/28/2018 06:37:45" />
+          <Entry Type="File" Name="it.js" CrcValue="3724736089" Length="11921" ModificationDate="07/28/2018 06:37:45" />
+          <Entry Type="File" Name="ja.js" CrcValue="2306083581" Length="13661" ModificationDate="07/28/2018 06:37:45" />
+          <Entry Type="File" Name="nl.js" CrcValue="2852713071" Length="11745" ModificationDate="07/28/2018 06:37:45" />
+          <Entry Type="File" Name="no.js" CrcValue="3745136247" Length="11017" ModificationDate="07/28/2018 06:37:45" />
+          <Entry Type="File" Name="pl.js" CrcValue="935075352" Length="12131" ModificationDate="07/28/2018 06:37:45" />
+          <Entry Type="File" Name="pt.js" CrcValue="1166053982" Length="12154" ModificationDate="07/28/2018 06:37:45" />
+          <Entry Type="File" Name="ru.js" CrcValue="4179657839" Length="16839" ModificationDate="07/28/2018 06:37:45" />
+          <Entry Type="File" Name="sv.js" CrcValue="3302618957" Length="11263" ModificationDate="07/28/2018 06:37:45" />
+          <Entry Type="File" Name="tr.js" CrcValue="4280531927" Length="11457" ModificationDate="07/28/2018 06:37:45" />
+          <Entry Type="File" Name="zh.js" CrcValue="608553216" Length="10115" ModificationDate="07/28/2018 06:37:46" />
+        </Entry>
+        <Entry Type="Dir" Name="static">
+          <Entry Type="File" Name="analytics.js" CrcValue="2206421211" Length="20084" ModificationDate="07/28/2018 06:37:46" />
+          <Entry Type="File" Name="build.js" CrcValue="2854042328" Length="59832" ModificationDate="07/28/2018 06:37:49" />
+          <Entry Type="File" Name="embed.js" CrcValue="2780529773" Length="20681" ModificationDate="07/28/2018 06:37:46" />
+          <Entry Type="File" Name="init.js" CrcValue="3544089334" Length="2014" ModificationDate="07/28/2018 06:37:46" />
+          <Entry Type="Dir" Name="js">
+            <Entry Type="File" Name="build.js" CrcValue="1531257780" Length="668105" ModificationDate="07/28/2018 06:37:47" />
+            <Entry Type="File" Name="search.js" CrcValue="964038201" Length="11241" ModificationDate="07/28/2018 06:37:47" />
+            <Entry Type="File" Name="unorm.js" CrcValue="810401160" Length="137016" ModificationDate="07/28/2018 06:37:47" />
+          </Entry>
+          <Entry Type="Dir" Name="skins">
+            <Entry Type="Dir" Name="default">
+              <Entry Type="File" Name="config.js" CrcValue="2448075714" Length="1410" ModificationDate="07/28/2018 06:37:47" />
+              <Entry Type="File" Name="templates.js" CrcValue="90042167" Length="51915" ModificationDate="07/28/2018 06:37:47" />
+              <Entry Type="Dir" Name="css">
+                <Entry Type="File" Name="build.css" CrcValue="1262339296" Length="10259" ModificationDate="07/28/2018 06:37:47" />
+                <Entry Type="File" Name="build.rtl.css" CrcValue="3409328533" Length="10264" ModificationDate="07/28/2018 06:37:47" />
+              </Entry>
+            </Entry>
+          </Entry>
+          <Entry Type="Dir" Name="static">
+            <Entry Type="Dir" Name="sound">
+              <Entry Type="File" Name="blow.mp3" CrcValue="2637059690" Length="19124" ModificationDate="07/28/2018 06:37:47" />
+              <Entry Type="File" Name="flip2.mp3" CrcValue="2634966747" Length="16559" ModificationDate="07/28/2018 06:37:47" />
+              <Entry Type="File" Name="flip3.mp3" CrcValue="2543685772" Length="19631" ModificationDate="07/28/2018 06:37:47" />
+              <Entry Type="File" Name="flip4.mp3" CrcValue="1318007904" Length="20399" ModificationDate="07/28/2018 06:37:48" />
+            </Entry>
+          </Entry>
+          <Entry Type="Dir" Name="styles">
+            <Entry Type="Dir" Name="css">
+              <Entry Type="File" Name="build.css" CrcValue="248273096" Length="57451" ModificationDate="07/28/2018 06:37:48" />
+              <Entry Type="File" Name="build.rtl.css" CrcValue="528206070" Length="57471" ModificationDate="07/28/2018 06:37:48" />
+              <Entry Type="Dir" Name="font">
+                <Entry Type="File" Name="publication-font.eot" CrcValue="3687907306" Length="16072" ModificationDate="07/28/2018 06:37:48" />
+                <Entry Type="File" Name="publication-font.svg" CrcValue="289616829" Length="127917" ModificationDate="07/28/2018 06:37:48" />
+                <Entry Type="File" Name="publication-font.ttf" CrcValue="2802751024" Length="15872" ModificationDate="07/28/2018 06:37:48" />
+                <Entry Type="File" Name="publication-font.woff" CrcValue="1098621860" Length="7536" ModificationDate="07/28/2018 06:37:48" />
+              </Entry>
+            </Entry>
+            <Entry Type="Dir" Name="img">
+              <Entry Type="File" Name="blogger.png" CrcValue="2988051643" Length="2219" ModificationDate="07/28/2018 06:37:48" />
+              <Entry Type="File" Name="book_preloader.gif" CrcValue="3433716769" Length="3789" ModificationDate="07/28/2018 06:37:48" />
+              <Entry Type="File" Name="close.png" CrcValue="2460606412" Length="1082" ModificationDate="07/28/2018 06:37:48" />
+              <Entry Type="File" Name="facebook.png" CrcValue="2277758266" Length="1877" ModificationDate="07/28/2018 06:37:48" />
+              <Entry Type="File" Name="file-pdf.svg" CrcValue="1638154318" Length="3312" ModificationDate="07/28/2018 06:37:48" />
+              <Entry Type="File" Name="google.png" CrcValue="1078930714" Length="3165" ModificationDate="07/28/2018 06:37:48" />
+              <Entry Type="File" Name="leftArrow.png" CrcValue="3013204107" Length="1007" ModificationDate="07/28/2018 06:37:48" />
+              <Entry Type="File" Name="lightbox-preloader.gif" CrcValue="2093076166" Length="8967" ModificationDate="07/28/2018 06:37:48" />
+              <Entry Type="File" Name="linkedin.png" CrcValue="984099024" Length="2001" ModificationDate="07/28/2018 06:37:48" />
+              <Entry Type="File" Name="mail.png" CrcValue="143519824" Length="2853" ModificationDate="07/28/2018 06:37:48" />
+              <Entry Type="File" Name="page-error.png" CrcValue="92244251" Length="1903" ModificationDate="07/28/2018 06:37:48" />
+              <Entry Type="File" Name="page-loading-bg.png" CrcValue="4282132804" Length="1205" ModificationDate="07/28/2018 06:37:48" />
+              <Entry Type="File" Name="page-loading.png" CrcValue="2667691368" Length="1536" ModificationDate="07/28/2018 06:37:48" />
+              <Entry Type="File" Name="page-unready.gif" CrcValue="1591700247" Length="26265" ModificationDate="07/28/2018 06:37:48" />
+              <Entry Type="File" Name="rightArrow.png" CrcValue="870668999" Length="1007" ModificationDate="07/28/2018 06:37:48" />
+              <Entry Type="File" Name="tumblr.png" CrcValue="1310108293" Length="1769" ModificationDate="07/28/2018 06:37:48" />
+              <Entry Type="File" Name="twitter.png" CrcValue="3301560716" Length="2548" ModificationDate="07/28/2018 06:37:48" />
+              <Entry Type="File" Name="videoIcon.png" CrcValue="2210887153" Length="4823" ModificationDate="07/28/2018 06:37:48" />
+              <Entry Type="File" Name="vk.png" CrcValue="17290622" Length="2553" ModificationDate="07/28/2018 06:37:48" />
+            </Entry>
+          </Entry>
+        </Entry>
+      </Entry>
+      <Entry Type="Dir" Name="mobile">
+        <Entry Type="File" Name="build.js" CrcValue="3652106193" Length="211901" ModificationDate="07/28/2018 07:39:58" />
+        <Entry Type="File" Name="index.html" CrcValue="2362501988" Length="385" ModificationDate="07/28/2018 08:00:47" />
+        <Entry Type="File" Name="init.js" CrcValue="840833171" Length="38736" ModificationDate="07/28/2018 07:39:59" />
+        <Entry Type="File" Name="mobile.html" CrcValue="2362501988" Length="385" ModificationDate="07/28/2018 08:00:47" />
+        <Entry Type="File" Name="tablet.html" CrcValue="2362501988" Length="385" ModificationDate="07/28/2018 08:00:47" />
+        <Entry Type="Dir" Name="locals">
+          <Entry Type="Dir" Name="ar">
+            <Entry Type="File" Name="textlang.js" CrcValue="2954803398" Length="3117" ModificationDate="07/28/2018 07:39:59" />
+          </Entry>
+          <Entry Type="Dir" Name="de">
+            <Entry Type="File" Name="textlang.js" CrcValue="838680460" Length="2356" ModificationDate="07/28/2018 07:39:59" />
+          </Entry>
+          <Entry Type="Dir" Name="en">
+            <Entry Type="File" Name="textlang.js" CrcValue="3362967243" Length="2369" ModificationDate="07/28/2018 07:39:59" />
+          </Entry>
+          <Entry Type="Dir" Name="es">
+            <Entry Type="File" Name="textlang.js" CrcValue="2981815594" Length="2348" ModificationDate="07/28/2018 07:39:59" />
+          </Entry>
+          <Entry Type="Dir" Name="fi">
+            <Entry Type="File" Name="textlang.js" CrcValue="1829075943" Length="2331" ModificationDate="07/28/2018 07:40:00" />
+          </Entry>
+          <Entry Type="Dir" Name="fr">
+            <Entry Type="File" Name="textlang.js" CrcValue="374935002" Length="2449" ModificationDate="07/28/2018 07:40:00" />
+          </Entry>
+          <Entry Type="Dir" Name="he">
+            <Entry Type="File" Name="textlang.js" CrcValue="3765950389" Length="2762" ModificationDate="07/28/2018 07:40:00" />
+          </Entry>
+          <Entry Type="Dir" Name="it">
+            <Entry Type="File" Name="textlang.js" CrcValue="2050998577" Length="2404" ModificationDate="07/28/2018 07:40:00" />
+          </Entry>
+          <Entry Type="Dir" Name="ja">
+            <Entry Type="File" Name="textlang.js" CrcValue="2854970429" Length="2689" ModificationDate="07/28/2018 07:40:00" />
+          </Entry>
+          <Entry Type="Dir" Name="ko">
+            <Entry Type="File" Name="textlang.js" CrcValue="336794542" Length="1619" ModificationDate="07/28/2018 07:40:00" />
+          </Entry>
+          <Entry Type="Dir" Name="nl">
+            <Entry Type="File" Name="textlang.js" CrcValue="207883924" Length="2280" ModificationDate="07/28/2018 07:40:00" />
+          </Entry>
+          <Entry Type="Dir" Name="no">
+            <Entry Type="File" Name="textlang.js" CrcValue="2854834158" Length="2162" ModificationDate="07/28/2018 07:40:00" />
+          </Entry>
+          <Entry Type="Dir" Name="pl">
+            <Entry Type="File" Name="textlang.js" CrcValue="4196918137" Length="2401" ModificationDate="07/28/2018 07:40:00" />
+          </Entry>
+          <Entry Type="Dir" Name="pt">
+            <Entry Type="File" Name="textlang.js" CrcValue="1079697648" Length="2379" ModificationDate="07/28/2018 07:40:00" />
+          </Entry>
+          <Entry Type="Dir" Name="ru">
+            <Entry Type="File" Name="textlang.js" CrcValue="666956018" Length="3474" ModificationDate="07/28/2018 07:40:01" />
+          </Entry>
+          <Entry Type="Dir" Name="sv">
+            <Entry Type="File" Name="textlang.js" CrcValue="2307265235" Length="2189" ModificationDate="07/28/2018 07:40:01" />
+          </Entry>
+          <Entry Type="Dir" Name="tr">
+            <Entry Type="File" Name="textlang.js" CrcValue="1560229804" Length="2370" ModificationDate="07/28/2018 07:40:01" />
+          </Entry>
+          <Entry Type="Dir" Name="zh">
+            <Entry Type="File" Name="textlang.js" CrcValue="2536024769" Length="1996" ModificationDate="07/28/2018 07:40:01" />
+          </Entry>
+        </Entry>
+        <Entry Type="Dir" Name="styles">
+          <Entry Type="File" Name="logo.svg" CrcValue="3206632605" Length="5003" ModificationDate="07/28/2018 07:40:01" />
+          <Entry Type="File" Name="preloader.gif" CrcValue="839886394" Length="20432" ModificationDate="07/28/2018 07:40:01" />
+          <Entry Type="File" Name="preloader_2-3.gif" CrcValue="3738393439" Length="4103" ModificationDate="07/28/2018 07:40:01" />
+          <Entry Type="File" Name="preloader_3.gif" CrcValue="3901931156" Length="4812" ModificationDate="07/28/2018 07:40:01" />
+          <Entry Type="File" Name="production.css" CrcValue="974536290" Length="27304" ModificationDate="07/28/2018 07:40:01" />
+          <Entry Type="File" Name="publapp.png" CrcValue="3522653664" Length="55846" ModificationDate="07/28/2018 07:40:01" />
+          <Entry Type="File" Name="rotate-2x.png" CrcValue="4032080914" Length="2606" ModificationDate="07/28/2018 07:40:01" />
+          <Entry Type="File" Name="rotate.png" CrcValue="605176298" Length="1114" ModificationDate="07/28/2018 07:40:01" />
+          <Entry Type="Dir" Name="font">
+            <Entry Type="File" Name="fbfont-codes.css" CrcValue="3192316602" Length="1165" ModificationDate="07/28/2018 07:40:01" />
+            <Entry Type="File" Name="fbfont.eot" CrcValue="2028545843" Length="11714" ModificationDate="07/28/2018 07:40:01" />
+            <Entry Type="File" Name="fbfont.otf" CrcValue="1067498496" Length="33876" ModificationDate="07/28/2018 07:40:02" />
+            <Entry Type="File" Name="fbfont.svg" CrcValue="844411710" Length="18888" ModificationDate="07/28/2018 07:40:02" />
+            <Entry Type="File" Name="fbfont.ttf" CrcValue="144071243" Length="11552" ModificationDate="07/28/2018 07:40:02" />
+            <Entry Type="File" Name="fbfont.vfb" CrcValue="3449359250" Length="27493" ModificationDate="07/28/2018 07:40:02" />
+            <Entry Type="File" Name="fbfont.vfbak" CrcValue="2226793544" Length="27434" ModificationDate="07/28/2018 07:40:02" />
+            <Entry Type="File" Name="fbfont.woff" CrcValue="1847995388" Length="5824" ModificationDate="07/28/2018 07:40:02" />
+            <Entry Type="File" Name="fbfont.woff2" CrcValue="1029640888" Length="4736" ModificationDate="07/28/2018 07:40:02" />
+            <Entry Type="File" Name="fonticons.eot" CrcValue="1242793922" Length="24514" ModificationDate="07/28/2018 07:40:02" />
+            <Entry Type="File" Name="fonticons.svg" CrcValue="4049289836" Length="38494" ModificationDate="07/28/2018 07:40:02" />
+            <Entry Type="File" Name="fonticons.ttf" CrcValue="338734627" Length="24248" ModificationDate="07/28/2018 07:40:02" />
+            <Entry Type="File" Name="fonticons.woff" CrcValue="4079025629" Length="12284" ModificationDate="07/28/2018 07:40:02" />
+          </Entry>
+          <Entry Type="Dir" Name="help">
+            <Entry Type="Dir" Name="mobile">
+              <Entry Type="File" Name="1-2x.png" CrcValue="3989479503" Length="73438" ModificationDate="07/28/2018 07:40:02" />
+              <Entry Type="File" Name="1.png" CrcValue="1624235228" Length="38404" ModificationDate="07/28/2018 07:40:02" />
+              <Entry Type="File" Name="2-2x.png" CrcValue="93442019" Length="77127" ModificationDate="07/28/2018 07:40:02" />
+              <Entry Type="File" Name="2.png" CrcValue="577960002" Length="39692" ModificationDate="07/28/2018 07:40:02" />
+              <Entry Type="File" Name="3-2x.png" CrcValue="1432015568" Length="89703" ModificationDate="07/28/2018 07:40:02" />
+              <Entry Type="File" Name="3.png" CrcValue="2618620678" Length="53921" ModificationDate="07/28/2018 07:40:02" />
+              <Entry Type="File" Name="4-2x.png" CrcValue="2839809791" Length="106674" ModificationDate="07/28/2018 07:40:02" />
+              <Entry Type="File" Name="4.png" CrcValue="2337925327" Length="64837" ModificationDate="07/28/2018 07:40:02" />
+              <Entry Type="File" Name="5-2x.png" CrcValue="413738978" Length="92404" ModificationDate="07/28/2018 07:40:02" />
+              <Entry Type="File" Name="5.png" CrcValue="1109005786" Length="55160" ModificationDate="07/28/2018 07:40:02" />
+            </Entry>
+            <Entry Type="Dir" Name="tablet">
+              <Entry Type="File" Name="1-2x.png" CrcValue="3088769609" Length="89534" ModificationDate="07/28/2018 07:40:02" />
+              <Entry Type="File" Name="1.png" CrcValue="1794417326" Length="42306" ModificationDate="07/28/2018 07:40:02" />
+              <Entry Type="File" Name="2-2x.png" CrcValue="4096592185" Length="89839" ModificationDate="07/28/2018 07:40:02" />
+              <Entry Type="File" Name="2.png" CrcValue="3814936709" Length="42246" ModificationDate="07/28/2018 07:40:02" />
+              <Entry Type="File" Name="3-2x.png" CrcValue="2564258330" Length="121005" ModificationDate="07/28/2018 07:40:02" />
+              <Entry Type="File" Name="3.png" CrcValue="3782570356" Length="46889" ModificationDate="07/28/2018 07:40:02" />
+              <Entry Type="File" Name="4-2x.png" CrcValue="1837507659" Length="115184" ModificationDate="07/28/2018 07:40:02" />
+              <Entry Type="File" Name="4.png" CrcValue="1006301531" Length="46569" ModificationDate="07/28/2018 07:40:02" />
+              <Entry Type="File" Name="5-2x.png" CrcValue="857808343" Length="127019" ModificationDate="07/28/2018 07:40:02" />
+              <Entry Type="File" Name="5.png" CrcValue="3793523718" Length="49086" ModificationDate="07/28/2018 07:40:02" />
+            </Entry>
+          </Entry>
+        </Entry>
+      </Entry>
+      <Entry Type="Dir" Name="publication">
+        <Entry Type="File" Name="index.html" CrcValue="4078403541" Length="3990" ModificationDate="07/28/2018 08:00:45" />
+      </Entry>
+    </Entry>
+    <Entry Type="Dir" Name="toc">
+      <Entry Type="File" Name="index.html" CrcValue="2102921788" Length="4020" ModificationDate="07/28/2018 08:00:45" />
+    </Entry>
+  </Entry>
+</FtpUploadInfo>
